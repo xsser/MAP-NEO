@@ -1,4 +1,3 @@
-386 B
 FROM registry.baidubce.com/paddlepaddle/paddle:2.5.1-gpu-cuda11.2-cudnn8.2-trt8.0
 WORKDIR /workspace
 COPY . .
